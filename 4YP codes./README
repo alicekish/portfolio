@@ -1,0 +1,5 @@
+4YP codes contains four files:
+- OP_complete1. This file represents the algorithm used for single device scheduling
+- peaks_forpi. This file contains code for the 'power limit' algorithm to schedule multiple devices
+- hwt_weekday. This file finds hot water times from historical weekday data as well as model parameters
+- hwt_alg2. This file schedules heating of the water within the hot water tank.
